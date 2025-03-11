@@ -1,0 +1,15 @@
+
+Tailwind CSS Udemy Tutorial By Brad Traversy:
+
+Section 1: Introduction
+Section 2: Tailwind Fundamentals - Part 1
+Section 3: Tailwind Fundamentals - Part 2
+Section 4: A Better Development Environment
+Section 5: Tailwind CSS Mini-Projects
+Section 6: Project 1 - Clipboard Website
+Section 7: Project 2 - Loopstudios Website
+Section 8: Project 3 - Shortly Website
+Section 9: Project 4 - Testimonial Grid Project
+Section 10: Project 5 - Fylo Website With Color Picker
+Section 11: Project 6 - Bookmark Manager Website
+
