@@ -1,0 +1,99 @@
+Here’s a list of **important and commonly used Tailwind CSS utility classes** categorized for easy reference:  
+
+---
+
+### 🔹 **Layout & Box Model**  
+📏 **Spacing (Margin & Padding)**  
+- `m-4`, `mt-2`, `mb-3`, `ml-5`, `mr-6`, `mx-auto`, `my-2`  
+- `p-4`, `pt-2`, `pb-3`, `pl-5`, `pr-6`, `px-8`, `py-10`  
+
+📐 **Width & Height**  
+- `w-full`, `w-screen`, `w-1/2`, `w-1/3`, `w-1/4`, `w-auto`, `w-96`  
+- `h-full`, `h-screen`, `h-1/2`, `h-96`, `h-auto`  
+
+📌 **Max & Min Width/Height**  
+- `max-w-sm`, `max-w-md`, `max-w-lg`, `max-w-xl`, `max-w-full`  
+- `min-w-0`, `min-w-full`, `min-w-max`, `min-h-screen`  
+
+📦 **Display & Visibility**  
+- `block`, `inline`, `inline-block`, `hidden`  
+- `flex`, `grid`, `table`, `contents`, `flow-root`  
+- `invisible`, `visible`  
+
+📜 **Overflow**  
+- `overflow-auto`, `overflow-hidden`, `overflow-scroll`  
+- `overflow-x-auto`, `overflow-y-hidden`  
+
+🔳 **Positioning**  
+- `static`, `relative`, `absolute`, `fixed`, `sticky`  
+- `top-0`, `bottom-0`, `left-0`, `right-0`  
+- `z-0`, `z-10`, `z-50`, `z-auto`  
+
+📍 **Flexbox & Grid**  
+- `flex`, `inline-flex`, `grid`  
+- `flex-row`, `flex-col`, `flex-wrap`, `flex-nowrap`  
+- `justify-start`, `justify-center`, `justify-between`, `justify-end`  
+- `items-start`, `items-center`, `items-end`  
+- `gap-2`, `gap-4`, `gap-6`, `gap-x-4`, `gap-y-2`  
+- `grid-cols-1`, `grid-cols-2`, `grid-cols-3`, `grid-cols-12`  
+
+---
+
+### 🎨 **Colors & Backgrounds**  
+🌈 **Text Colors**  
+- `text-black`, `text-white`, `text-gray-500`, `text-red-500`, `text-blue-600`  
+
+🖌 **Background Colors**  
+- `bg-white`, `bg-black`, `bg-gray-200`, `bg-blue-500`, `bg-green-400`  
+
+🔆 **Opacity**  
+- `opacity-0`, `opacity-50`, `opacity-100`  
+
+🌟 **Shadows & Borders**  
+- `shadow-sm`, `shadow-md`, `shadow-lg`, `shadow-xl`, `shadow-2xl`  
+- `border`, `border-2`, `border-4`, `border-solid`, `border-dashed`  
+- `border-gray-500`, `border-blue-600`, `border-red-300`  
+
+✏ **Rounded Corners & Outline**  
+- `rounded`, `rounded-md`, `rounded-lg`, `rounded-full`  
+- `outline`, `outline-none`, `outline-blue-500`  
+
+📷 **Background Size & Position**  
+- `bg-cover`, `bg-contain`, `bg-auto`  
+- `bg-center`, `bg-left`, `bg-right`, `bg-bottom`, `bg-top`  
+
+---
+
+### 📝 **Typography**  
+📏 **Font Size & Weight**  
+- `text-xs`, `text-sm`, `text-base`, `text-lg`, `text-xl`, `text-2xl`, `text-4xl`  
+- `font-thin`, `font-light`, `font-normal`, `font-medium`, `font-bold`, `font-black`  
+
+📝 **Text Alignment & Decoration**  
+- `text-left`, `text-center`, `text-right`, `text-justify`  
+- `underline`, `line-through`, `no-underline`  
+- `tracking-tight`, `tracking-wide`, `leading-relaxed`, `leading-tight`  
+
+✂ **Text Overflow & White Space**  
+- `truncate`, `overflow-ellipsis`, `whitespace-nowrap`, `break-words`  
+
+---
+
+### 🔥 **Effects & Animations**  
+💡 **Transitions & Transforms**  
+- `transition`, `transition-all`, `transition-colors`, `transition-opacity`  
+- `duration-200`, `duration-500`, `ease-in`, `ease-out`  
+- `rotate-45`, `rotate-90`, `rotate-180`, `scale-50`, `scale-75`, `scale-100`  
+
+---
+
+### 🌓 **Dark Mode & Responsive Classes**  
+🌙 **Dark Mode**  
+- `dark:bg-gray-800`, `dark:text-white`  
+- `dark:border-gray-600`, `dark:shadow-lg`  
+
+📱 **Responsive Breakpoints**  
+- `sm:hidden`, `md:flex`, `lg:grid`, `xl:w-1/2`, `2xl:p-10`  
+
+------------------------------------------------------------
+
